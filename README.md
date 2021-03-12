@@ -20,3 +20,5 @@ Audio Transcription -> bot creates keywords from listening to room where current
 Web Framework on top?
 
 Option to mute everyone when everyone is talking to much!
+
+Mod as a bot!

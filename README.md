@@ -1,6 +1,8 @@
 # first_python_hackathon
 
-<b>Idea Brainstorming</b> built on top of https://github.com/stypr/clubhouse-py
+<b>Idea Brainstorming</b> 
+
+built on top of https://github.com/stypr/clubhouse-py
 
 Club Management System -> Adding something to find person in list find by username - 
 
